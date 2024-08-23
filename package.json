@@ -1,12 +1,5 @@
 {
-  "name": "node-esm-project",
-  "version": "1.0.0",
-  "description": "A Node.js project using ES modules",
-  "main": "main.js",
-  "type": "module",
-  "scripts": {
-    "start": "node main.js"
-  },
-  "author": "",
-  "license": "ISC"
+  "name": "client",
+  "version": "0.1.0",
+  "private": true
 }
